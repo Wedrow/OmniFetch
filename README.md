@@ -4,7 +4,7 @@
 
 A local-first media utility for inspecting, selecting, downloading, trimming, and processing public media streams supported by `yt-dlp`, backed by **FFmpeg** and **FFprobe**.
 
-[![OmniFetch CI](https://github.com/ledrodh/OmniFetch/actions/workflows/ci.yml/badge.svg)](https://github.com/ledrodh/OmniFetch/actions/workflows/ci.yml)
+[![OmniFetch CI](https://github.com/Wedrow/OmniFetch/actions/workflows/ci.yml/badge.svg)](https://github.com/Wedrow/OmniFetch/actions/workflows/ci.yml)
 [![Python 3.10–3.13](https://img.shields.io/badge/python-3.10%E2%80%933.13-blue.svg)](pyproject.toml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 ![Version 1.1.0](https://img.shields.io/badge/version-v1.1.0-informational.svg)
@@ -112,7 +112,7 @@ Completed media download button backed by a Download Lease, alongside the sequen
 Clone the repository:
 
 ```powershell
-git clone https://github.com/ledrodh/OmniFetch.git
+git clone https://github.com/Wedrow/OmniFetch.git
 cd OmniFetch
 ```
 
